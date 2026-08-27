@@ -6,7 +6,7 @@ RideReady is a high-fidelity, enterprise-grade MERN (MongoDB, Express, React, No
 
 *   **Production Live Website:** [https://cab-booking-client.onrender.com](https://cab-booking-client.onrender.com)
 *   **Production API Server:** [https://cab-booking-g8dt.onrender.com](https://cab-booking-g8dt.onrender.com)
-*   **GitHub Repository:** [https://github.com/Harikrishna7274/Cab-Booking](https://github.com/Harikrishna7274/Cab-Booking)
+*   **GitHub Repository:** [https://github.com/KISHORE17031/Cab-Booking](https://github.com/KISHORE17031/Cab-Booking)
 *   **Release Version:** `v1.0.0`
 
 ---
